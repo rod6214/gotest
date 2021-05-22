@@ -1,10 +1,9 @@
-package main
+package gotest
 
 import (
 	"fmt"
 )
 
-func Message()
-{
+func Message(){
 	fmt.Println("This is a message from a module")
 }
