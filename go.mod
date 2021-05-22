@@ -1,3 +1,3 @@
-module test_module
+module gotest
 
 go 1.16
